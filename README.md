@@ -1,4 +1,4 @@
-# Roadmap To Learn Generative AI
+# Roadmap To Learn Gen AI In 2024
 
 ## Prerequisites
 
